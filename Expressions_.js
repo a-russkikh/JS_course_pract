@@ -1,2 +1,8 @@
-document.body.innerHTML = "<h1>Hello from JavaScript</h>";
-console.log("Test 2");
+"abc";
+10;
+5 + 2;
+c = 10;
+
+"Good" + "Evening";
+a <= b || c != d;
+myFunction(c, d);

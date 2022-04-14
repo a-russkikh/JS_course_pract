@@ -1,3 +1,3 @@
-#Git and Github Course
+#Git + JS courses
 
-Crash Course for Git
+Full courses with practice

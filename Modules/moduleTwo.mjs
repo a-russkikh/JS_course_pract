@@ -1,5 +1,4 @@
-import sumNumbers from "./moduleOne.mjs";
+import { sum, mult as multNumbers } from "./moduleOne.mjs";
 
-const res1 = sumNumbers(10, 2);
-console.log(res1);
-// console.log(myName);
+console.log(sum(10, 2));
+console.log(multNumbers(2, 5));
